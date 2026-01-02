@@ -248,11 +248,13 @@ header.scrolled {
 
 .btn-primary {
     background-color: var(--primary-blue);
-    color: var(--white);
+    color: var(--dark-blue);
+    background-color: #e6f2ff;
 }
 
 .btn-primary:hover, .btn-primary:focus {
     background-color: var(--dark-blue);
+   
 }
 
 /* Section about avec layout flexible */
